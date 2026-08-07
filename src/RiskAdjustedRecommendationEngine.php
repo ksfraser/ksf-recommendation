@@ -8,6 +8,8 @@ use KSFII\CanadaLife\Calculations\CalculationEngineInterface;
 use KSFII\CanadaLife\Calculations\CalculationContext;
 use KSFII\CanadaLife\Calculations\CalculationResult;
 use KSFII\CanadaLife\Calculations\CalculationException;
+use Ksfraser\ModulesCommon\ParameterDefinition;
+use Ksfraser\ModulesCommon\ValidationResult;
 
 /**
  * Risk-Adjusted Investment Recommendation Engine
